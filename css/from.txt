@@ -1,0 +1,40 @@
+    <form id="contact-form">
+                    <div class="form-group">
+                      <label for="name">Your Name *</label>
+                      <input type="text" class="form-control" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="email">Your Email *</label>
+                      <input type="email" class="form-control" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                      <label for="subject">Subject</label>
+                      <input type="text" class="form-control" id="subject" name="subject">
+                    </div>
+                    <div class="form-group">
+                      <label for="message">Message *</label>
+                      <textarea name="message" class="form-control" id="message" cols="30" rows="10" required></textarea>
+                    </div>
+                    <div class="form-group">
+                      <input type="submit" value="Send" class="btn btn-black px-5 text-white">
+                    </div>
+                  </form>
+
+
+                   <script>
+
+    (function () {
+      emailjs.init("eMSWihfHTNG-IlziZ");
+    })();
+
+    document.getElementById('contact-form').addEventListener('submit', function(event) {
+      event.preventDefault();
+      emailjs.sendForm('service_31toi4k', 'template_eyp0pad', this)
+        .then(function () {
+          // Show the success modal
+          $('#successModal').modal('show');
+        }, function (error) {
+          alert('Failed to send message. Please try again later.');
+        });
+
+  </script>
