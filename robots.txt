@@ -1,0 +1,11 @@
+# Robots.txt file for All Aspects D&S
+
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /images/
+Disallow: /vendor/
+Allow: /
+
+# Allow search engines to index the sitemap
+Sitemap: https://allaspects-ds.co.uk/sitemap.xml
