@@ -1,0 +1,262 @@
+[
+  {
+    "id": "ice-buckets",
+    "image": "images/icebuckets.png",
+    "title": "The Ice Buckets",
+    "description": "Create your very own bar using these galvanised iced buckets. Can be used inside or outside.\n\nTwo different shapes available.\n\nUse vertically or horizontally or group together to make an even bigger board.\n\nBucket sizes\nRound 42cm and 20cm tall\nRectangle 56cm long, 20cm wide and 17.5cm tall\n4 of each available, 8 in total",
+    "cost": "£8.50 each (3 day hire) 8 available\n£3.00 per extra day"
+  },
+  {
+    "id": "vases",
+    "image": "images/vases.png",
+    "title": "The Vases",
+    "description": "These vases can be used to create height and impact for any occasion.\n\nThere are 8 in total offering 2 different heights.\n\n5 Vases approx. 25in tall, 68cm, top is 4in or 11cm wide and the base stand is 5in or 13cm\n\n3 Vases approx. 28in tall, top is 4in or 11cm wide and the base stand is 5in or 13cm",
+    "cost": "£5.00 each or all 8 for £30 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "seating-plan",
+    "image": "images/frame.png",
+    "title": "The Seating Plan Option",
+    "description": "Beautiful large wooden frame with cork insert.\nThis frame allows you to add and create a seating plan of welcome messages.\nComes with an easel.\nIdeal for parties and weddings.\nCan be used indoors and Outdoors (weather permitting).\nCan be used portrait or landscape.\n\nThe size\n43in * 23in",
+    "cost": "£8.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "three-tier-stand",
+    "image": "images/3tierstand.jpg",
+    "title": "The Three-Tier Stand",
+    "description": "3-tiered stand is chrome.\nBeautiful centre piece for cakes, food and flowers.\nAdd ice for a spectacular centre piece of seafood.\n\nSize\nStands approx. 53cm tall\nTop tier 20cm\nMiddle tier 26.5cm\nBase tier 31cm\nEasy to assemble",
+    "cost": "£8.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "sweet-treat-machine",
+    "image": "images/sweettreatmachine.png",
+    "title": "The Sweet Treat Machine",
+    "description": "The Classic Sweet Vending Machine is a must have for any occasion and age group.\nSimply needs a level and sturdy surface for anyone to come along, turn the handle and your sweet treats arrive in your hands.\nAvoid direct sunlight or hot rooms, or your treats could be impacted.\nCan be used with any small loose sweets like jellybeans, M&M's or skittles.\n\nThe size\nApprox. 16in tall\n6in wide\nHolds approx. 5KG",
+    "cost": "£12.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "slipper-basket",
+    "image": "images/hamper.png",
+    "title": "The Slipper & Flip Flop Basket",
+    "description": "This slipper/Flip flop Basket is ideal for parties and weddings.\nGreat for letting anyone take off their shoes and really relax. Simply add your sign to the basket.\nWicker Basket with leather finished trims.\n\nThe Basket is 14in * 11in and is 7in deep\nSlippers/Flip Flops not included",
+    "cost": "£4.00 (3 day hire)\n£2.00 per extra day"
+  },
+  {
+    "id": "drinks-dispenser",
+    "image": "images/drinkdispenser.png",
+    "title": "The Drinks Dispenser",
+    "description": "This is a large drinks dispenser.\nCreating impact on any occasion.\nAllowing any cold drinks to be easily accessible for friends and family.\n\nDispenser size\nStands approx. 17in tall\nIs 10in wide\nEasy lift lid",
+    "cost": "£8.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "lamps-large",
+    "image": "images/gardenlamplarge_2.png",
+    "title": "The Lamps - Large",
+    "description": "5 large lamps available.\nIdeal for parties and weddings.\nCan be used indoors and Outdoors.\nCan be used with real or battery operated candles or lights (not included).\n\nLantern size\nEach Lantern is 12in tall by 7in wide at the base\nCandle width size, under 3in wide\nLanterns are white",
+    "cost": "£10.00 for all 5 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "lamps-medium",
+    "image": "images/gardenlampmedium2.png",
+    "title": "The Lamps - Medium",
+    "description": "6 medium lamps available.\nIdeal for parties and weddings.\nCan be used indoors and Outdoors.\nCan be used with real or battery operated candles or lights (not included).\n\nLantern size\nEach Lantern is 10in tall by 6in wide at the base\nCandle width size, under 2in wide\nLanterns are white",
+    "cost": "£10.00 for all 6 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "extra-large-ice-bucket",
+    "image": "images/icebucketextralarge.png",
+    "title": "The Extra Large Ice Bucket",
+    "description": "A beautiful addition to any party.\nDouble lined extra large ice bucket, suitable for wine and champagne bottles.\nCan be used in and outdoors.\n\nIce Bucket size\nApprox 16in wide and 10in tall\nDouble lined so ice remains ice for longer",
+    "cost": "£8.50 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "chalk-boards",
+    "image": "images/chalkBoard.png",
+    "title": "The Chalk Boards",
+    "description": "Create any personalised messages anywhere for your event.\nWrite your message using chalk or paint.\n\nUse vertically or horizontally or group together to make an even bigger board.\n\nBoard size\n30cm * 60cm",
+    "cost": "£4.00 each (3 day hire) 10 available\n£2.00 per extra day"
+  },
+  {
+    "id": "polar-bear",
+    "image": "images/polar.png",
+    "title": "The Polar Bear – Winter Theme",
+    "description": "This is a large free standing Polar bear.\nAdds impact to any room.\nThis is not a toy and isn't suitable for children's events or outside. Requires a flat surface.\n\nPolar bear size\nStands approx. 6 ft tall and will need about 4 feet of free standing space.\nNot suitable near heat source, children's events",
+    "cost": "£55.00 (3 day hire)\n£10.00 per extra day"
+  },
+  {
+    "id": "penguin",
+    "image": "images/penguin.png",
+    "title": "The Penguin – Winter Theme",
+    "description": "Large free standing Penguin.\nAdds impact to any room.\nThis is not a toy and isn't suitable for children's events or outside. Requires a flat surface.\n\nPenguin size\nStands approx. 3ft tall and about 2 foot wide.\nNot suitable near heat source, children's events",
+    "cost": "£20.00 (3 day hire)\n£5.00 per extra day"
+  },
+  {
+    "id": "stag-head",
+    "image": "images/staghead.png",
+    "title": "The Stag Head",
+    "description": "Create a stunning centre piece for any party or at a wedding.\n\nAdd candles, flowers or ivy.\nHolds 6 candles.\n\nSize\n86cm tall\n65cm wide",
+    "cost": "£12.00 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "large-wine-bottle",
+    "image": "images/largewinebottle.png",
+    "title": "The Large Wine Bottle",
+    "description": "Add to any bar.\nComes with a black background with 2 wine glasses in silver glitter paint.\nYou can add your own stickers, with any message or add your names.\n\nAdd lights or flowers.\n\nSize\n65cm tall\n15cm diameter",
+    "cost": "£6.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "large-matching-lanterns",
+    "image": "images/largematchinglatterns.png",
+    "title": "The Large Matching Lanterns",
+    "description": "2 Large chrome and gold lanterns, with handles.\nGlass all the way round, with latch on the side, enabling candles, flowers or lights to be added.\n\nCan stand on the floor.\n\nSize\n35cm tall\n23cm wide and deep",
+    "cost": "£15.00 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "reusable-ice-cubes",
+    "image": "images/reusableicecubes.png",
+    "title": "The Reusable Ice Cubes",
+    "description": "200 Reusable ice cubes.\nMust have for drink dispensers or in pre-made cocktails, to stop ice melting and changing the flavour.\n\nSize\n2.5cm",
+    "cost": "£4.00 (3 day hire)\n£1.00 per extra day"
+  },
+  {
+    "id": "gold-candelabras",
+    "image": "images/goldCandles.png",
+    "title": "The 10 Gold Candelabras",
+    "description": "Create stunning centre pieces for any wedding or party with these 10 candelabras.\n\nThese are high quality candelabras.\nAdd candles or flowers.\nEach candelabra holds 5 candles.\n\nSize\n71cm tall\n\nCandles not included. If using real candles an extra £8.00 is added for cleaning",
+    "cost": "£18.00 each or £150.00 for all 10 (3 day hire)\n£3.00 each per extra day"
+  },
+  {
+    "id": "golden-candle-holders",
+    "image": "images/24goldcandles.png",
+    "title": "24 Golden Candle Holders",
+    "description": "24 or 8 sets of 3 golden candle holders.\nIdeal for centrepieces of 3 or 5 on wedding tables or grouped in a long line.\n\n3 different heights helping create impact.\n\n3 Sizes are\n32cm tall\n27cm\n22cm\n\nCandle holder is 2.5cm, Base is 8.5cm\n\nCandles not included. If using real candles an extra £8.00 is added for cleaning",
+    "cost": "£15.00 for all 8 sets (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "large-gold-cake-stand",
+    "image": "images/largeglodcakestand.png",
+    "title": "The Large Gold 3-Tiered Cake Stand",
+    "description": "A stunning solid centre piece.\n3 Tiers.\nCan be used for cakes or savoury items or even flowers.\n\nSize\n70cm tall\nBase Tier is 35cm diameter",
+    "cost": "£15.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "white-lilac-wedding-set",
+    "image": "images/whitelilacet.png",
+    "title": "The White and Lilac Wedding Set",
+    "description": "Create an elegant theme at your Wedding or a party with these white and Lilac flowers and vases.\n\nThere are 11 Vases with flowers and clear beads. 1 Top of Table display.\n\nSize\nVases – 40cm tall, with flowers 64cm\nTable Runner 72cm long",
+    "cost": "£200.00 for the complete set (3 day hire)\n£15.00 per extra day"
+  },
+  {
+    "id": "large-clear-vases",
+    "image": "images/largeclearvases.png",
+    "title": "The Large Clear Vases",
+    "description": "12 Large clear vases.\nIdeal for stunning centrepieces at Weddings or parties.\n\nSize\n30cm tall\n11cm wide at the top and 13cm wide at the base\n\nCandles, flowers, lights not included",
+    "cost": "£8.00 each or £60 for all 12 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "miniature-vases",
+    "image": "images/49largesmallvases.png",
+    "title": "49 Beautiful Large and Small Miniature Vases",
+    "description": "20 large miniature vases, each ranging in size and shape.\n29 small miniature vases, each ranging in size and shape.\nGroup together, add flowers and surround with small candles.\n\nSize\nLarge ones approx. 15cm tall\nSmall ones approx. 9cm tall",
+    "cost": "£15.00 for all 49 bottles (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "miniature-vases-sweets",
+    "image": "images/49largesmallminivases.png",
+    "title": "49 Beautiful Large and Small Miniature Vases",
+    "description": "20 large miniature vases, each ranging in size and shape.\n29 small miniature vases, each ranging in size and shape.\nGroup together, add flowers and surround with small candles.\n\nSize\nLarge ones approx. 15cm tall\nSmall ones approx. 9cm tall\n\nSweets not included",
+    "cost": "£10.00 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "rose-trees",
+    "image": "images/6rosetreepots.png",
+    "title": "6 Classic Rose Trees with Pots and Stands",
+    "description": "6 beautiful rose trees, with rising stands and classic cream pot.\nUse down an aisle, against tables to create impact or use as a centrepiece on guests' tables.\n\nImages showing lights, lights not included.\n\nSize\n122cm tall approx. 50cm wide\nStands: 4cm, 38cm, 62cm\nCream pots are also included.",
+    "cost": "£125.00 for all 6 trees, stands and pots (3 day hire)\n£15.00 per extra day"
+  },
+  {
+    "id": "large-seating-plan",
+    "image": "images/largeseatplan.png",
+    "title": "Beautiful Large Welcome and or Seating Plan",
+    "description": "Lovely classic black stand to use as a welcome and or a seating plan for guests.\nLight weight, can easily be moved and can be placed on an easel.\nPerfect blank canvas.\n\nSize\n120cm tall\n61cm wide\n\nEasel comes with the board if needed – no charge",
+    "cost": "£8.00 (3 day hire)\n£2.00 per extra day"
+  },
+  {
+    "id": "crates",
+    "image": "images/set4crates.png",
+    "title": "Sets of Crates – 4 Sets Available",
+    "description": "There are 3 crates per set, durable and versatile.\nUse to create one off spaces for your guests at a Wedding or Party.\n\nEach set contains 3 crates, sizes are:\nLarge crate is 70cm by 30cm with a shelf\nMedium crate is 50cm by 30cm with a shelf\nMedium crate is 50cm by 30cm, no shelf",
+    "cost": "£12.00 per set of 3 or all 4 sets £40.00 (3 day hire)\n£5.00 per extra day"
+  },
+  {
+    "id": "black-table-runners",
+    "image": "images/blacktablerunner.png",
+    "title": "The Black Table Runners and Napkins",
+    "description": "Create an elegant theme at your Wedding or a party with these runners and napkins.\n\nThere are 27 Table Cheesecloth Runners and 78 Napkins available.\n\nSize\nRunners are 174cm long by 35cm wide approx.\nNapkins are 40cm x 40cm",
+    "cost": "£18.00 for all items (3 day hire)\n£3.00 each per extra day"
+  },
+  {
+    "id": "the-iconic-post-box-for-cards",
+    "image": "/images/postbox.png",
+    "title": "The Iconic Post Box for Cards",
+    "description": "Create a memorable centrepiece for your card and gift table.\nA cast iron letter box \nWe can insert your name and wedding date or you can make your own.\nComes with a key, so you can open the box at the end of the evening",
+    "cost": "£28.50 for box and key (3 day hire)\n£5.00 per extra day"
+  },
+  {
+    "id": "tall-gold-centrepieces",
+    "image": "images/goldcentrepieces.png",
+    "title": "Tall Gold Centrepieces",
+    "description": "Create an elegant centrepiece with these tall gold stands.\nComes with a Perspex shelf, so flowers can easy be placed on top or it can be removed.\nFlowers/candle not included\n\nSize\n60cm tall\n26cm squared\n",
+    "cost": "£7.00 each or 12 for £80.00 (3 day hire)\n£8.00 per extra day"
+  },
+  {
+    "id": "white-and-lilac-wedding-set",
+    "image": "images/whitelilacet.png",
+    "title": "The White and Lilac Wedding Set",
+    "description": "Create an elegant theme at your Wedding or a party with these white and Lilac flowers and vases.\nThere are 12 Vases with flowers and clear beads. 1 Top of Table display\n\nSize\n‎Vases – 40cm tall, with flowers 64cm\nTable Runner 72cm long",
+    "cost": "£200.00 for the complete set (3 day hire)\n£15.00 per extra day"
+  },
+  {
+    "id": "bird-cage-and-candle-holder-set",
+    "image": "images/birdcagecandle.png",
+    "title": "The Bird Cage and Candle Holder Set",
+    "description": "Create an elegant theme at your Wedding or a party with these beautiful Versatile Bird Cages.\nEach one comes with beading wrapped around the cage and 6 candle holders.\nThere are 10 Cages available.\nCandles/foliage not included.\n\nSize\n‎43cm tall\n22cm wide\nEach candle holder is 6cm tall by 4cm deep",
+    "cost": "£4.25 each or £40.00 for 10 (3 day hire)\n£10.00 per extra day"
+  },
+  {
+    "id": "the-rustic-wooden-love-heart",
+    "image": "images/rusticwoodheart.png",
+    "title": "The Rustic Wooden Love Heart",
+    "description": "A warm illuminated love heart for any wedding\nComes with 18 lights\nComes assembled and easy to move\nPower supply required\n\nSize\n115cm tall\n72cm at the widest point\n15cm deep",
+    "cost": "£35.00 (3 day hire)\n£8.00 per extra day"
+  },
+  {
+    "id": "the-pale-pink-and-white-rose-table-runners-or-sashes",
+    "image": "images/pinkwhitetablerunner.png",
+    "title": "The Pale Pink and White Rose Table Runners or Sashes",
+    "description": "Elegant pale pink with white rose table runners or sashes\nIdeal for table runners and chair sashes\nEach one has an angled end and stitched edging\nWorks beautifully with white décor\n96 are available\n\nSize\n‎Runners/Sashes are 239cm long\n19cm wide",
+    "cost": "£2.50 each (3 day hire)"
+  },
+  {
+    "id": "the-hessian-runners-sashe-napkin-set",
+    "image": "images/hessianrunners.png",
+    "title": "The Hessian Runners/Sashe & Napkin Set",
+    "description": "Create an elegant theme at your Wedding or a party with these Hessian Runners/sashes and napkins.\nUse on their own for a warm and rustic feel or add other colours or textures, like greens or lace\nThere are 60 Runners/Sashes available\n106 Napkins\n\nSize\n‎Runners/Sashes are 239cm long \n19cm wide",
+    "cost": "£2.50 for each Runner/Sashe (3 day hire)\n£1.45 for each Napkin (3 day hire)\n£8.00 per extra day"
+  },
+  {
+    "id": "wooden-decor-slices",
+    "image": "images/woddenslices.png",
+    "title": "Wooden décor Slices",
+    "description": "Helping create a warm and rustic feel to Weddings and parties.\nCan be used on their own or bases for centrepieces or décor.\nThere are 20 available\n\nSize\n‎Approx 33cm squared\n3cm deep",
+    "cost": "£ 1.50 each or 26.00 for 20 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "table-numbers-sets",
+    "image": "images/tablenumbersets.png",
+    "title": "The Table Numbers Sets",
+    "description": "A simple and elegant way for quests to find their seats.\n2 colours are available;\nSage green – numbers 1-10\nDark green – numbers 1-9\n\nSize\n‎14cm tall including the wooden base\n10cm wide",
+    "cost": "£4.00 for each complete set (3 day hire)\n£1.50 per extra day"
+  }
+  
+]
