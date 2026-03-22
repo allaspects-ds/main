@@ -49,6 +49,13 @@
     "cost": "£ 1.50 each or 26.00 for 20 (3 day hire)\n£4.00 per extra day"
   },
   {
+    "id": "large-clear-vases",
+    "image": "images/largeclearvases.png",
+    "title": "The Hurricane Clear Vases",
+    "description": "12 Large clear vases.\nIdeal for stunning centrepieces at Weddings or parties.\n\nSize\n30cm tall\n11cm wide at the top and 13cm wide at the base\n\nCandles, flowers, lights not included",
+    "cost": "£8.00 each or £60 for all 12 (3 day hire)\n£4.00 per extra day"
+  },
+  {
     "id": "miniature-vases",
     "image": "images/49largesmallvases.png",
     "title": "49 Beautiful Large and Small Miniature Vases",
@@ -223,13 +230,7 @@
     "description": "A stunning solid centre piece.\n3 Tiers.\nCan be used for cakes or savoury items or even flowers.\n\nSize\n70cm tall\nBase Tier is 35cm diameter",
     "cost": "£15.00 (3 day hire)\n£3.00 per extra day"
   },
-  {
-    "id": "large-clear-vases",
-    "image": "images/largeclearvases.png",
-    "title": "The Large Clear Vases",
-    "description": "12 Large clear vases.\nIdeal for stunning centrepieces at Weddings or parties.\n\nSize\n30cm tall\n11cm wide at the top and 13cm wide at the base\n\nCandles, flowers, lights not included",
-    "cost": "£8.00 each or £60 for all 12 (3 day hire)\n£4.00 per extra day"
-  },
+
   {
     "id": "miniature-vases-sweets",
     "image": "images/49largesmallminivases.png",
