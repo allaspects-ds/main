@@ -1,0 +1,78 @@
+[
+  {
+    "id": "intro",
+    "type": "intro",
+    "title": "Personal Touches",
+    "description": "We provide a creative planning service designed to support you. Our 'idea pages' can address any of your needs and start from £75, depending on what you require. 'Idea pages' can aid you in visualizing and tailoring your events.\nAdditionally, we can develop tools to assist with the organization and scheduling of your party, event, or wedding.\nOur offerings are suitable for a range of occasions, from intimate birthday celebrations to weddings.\nWe are excited to help you with your upcoming special occasion."
+  },
+  {
+    "id": "customisations-heading",
+    "type": "heading",
+    "title": "Here are just a few examples of some personalisation ideas"
+  },
+  {
+    "id": "custom-glass",
+    "type": "item",
+    "category": "Customisations",
+    "size": "half",
+    "image": "images/custom-glass.jpg",
+    "title": "Custom Printed Glassware",
+    "description": "Creating an image, printing onto stickers, making a champagne reception even more special.",
+    "tags": "glass champagne stickers reception"
+  },
+  {
+    "id": "custom-jams",
+    "type": "item",
+    "category": "Customisations",
+    "size": "half",
+    "image": "images/custom-jams.jpg",
+    "title": "Personalised Wedding Favours",
+    "description": "Adding your personalised stickers to jars for wedding favours.",
+    "tags": "favours jam jars stickers"
+  },
+  {
+    "id": "custom-bellybands",
+    "type": "item",
+    "category": "Customisations",
+    "size": "half",
+    "image": "images/custom-bellybands.png",
+    "title": "Belly Bands & Invitations",
+    "description": "Designing 'Belly Bands' for use on gifts, keepsakes or even to embellish your invitations can add a personal touch and make your guests feel special.",
+    "tags": "belly bands invitations stationery print"
+  },
+  {
+    "id": "custom-coasters",
+    "type": "item",
+    "category": "Customisations",
+    "size": "half",
+    "image": "images/custom-coasters.jpg",
+    "title": "Drink Mats & Place Mats",
+    "description": "We can help create images or visuals to be printed on most things, including drink mats and place mats.",
+    "tags": "coasters mats print place setting"
+  },
+  {
+    "id": "idea-heading",
+    "type": "heading",
+    "title": "Here are just a few examples of Idea and organisational Pages"
+  },
+  {
+    "id": "moodboard",
+    "type": "item",
+    "category": "Idea Pages",
+    "size": "full",
+    "image": "images/allaspectsds_moodboard.png",
+    "title": "Idea Pages",
+    "description": "Hand-curated mood boards to help you visualise the look and feel of your day before a single piece is set.",
+    "tags": "moodboard ideas planning vision"
+  },
+  {
+    "id": "planning",
+    "type": "item",
+    "category": "Idea Pages",
+    "size": "full",
+    "image": "images/allaspectsds_plan.png",
+    "title": "Planning & Organisation",
+    "description": "Tools and pages to support the organisation and scheduling of your party, event or wedding.",
+    "tags": "planning schedule organisation timeline"
+  }
+]

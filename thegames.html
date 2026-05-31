@@ -110,7 +110,15 @@
           </div>
 
 
-          <div id="items-container" data-items-src="data/games.json" class="row custom-row-02192 align-items-stretch">
+          <div class="row justify-content-center pb-4">
+            <div class="col-md-8 col-lg-6">
+              <input id="items-search" type="search" class="form-control" placeholder="Search games…"
+                aria-label="Search games" style="border-radius:0;border:1px solid #29404D;padding:14px 18px;">
+            </div>
+          </div>
+
+          <div id="items-container" data-items-src="data/games.json" data-search-input="items-search"
+            class="row custom-row-02192 align-items-stretch">
             <!-- Items are loaded dynamically from data/games.json -->
           </div>
 

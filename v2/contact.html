@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact — All Aspects D&S (v2)</title>
+<link rel="shortcut icon" href="../images/logo.png">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,500;0,9..144,700;1,9..144,400&family=Inter+Tight:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="date small-caps">Sywell · Northamptonshire · Est. MMXIX</div>
+    <div class="nameplate"><a href="index.html">All Aspects <span class="accent">&amp;</span> D<span class="italic">&amp;</span>S</a></div>
+    <div class="edition small-caps">§ Contact — Chapter VI</div>
+  </header>
+
+  <nav class="topnav small-caps">
+    <a href="index.html">Home</a>
+    <a href="thegames.html">The Games</a>
+    <a href="thedecor.html">The Decor</a>
+    <a href="personal.html">Personal Touches</a>
+    <a href="about.html">About</a>
+    <a class="active" href="contact.html">Contact</a>
+    <a href="tc.html">T&amp;C's</a>
+  </nav>
+
+  <section class="page-hero">
+    <div>
+      <div class="small-caps kicker">§ VI. — Of Correspondence</div>
+      <h1>Write to <em>us</em>.</h1>
+    </div>
+    <p class="lede">If you would like to check availability or have any other questions, please drop a line and we will reply within a day or two.</p>
+  </section>
+
+  <section class="contact-page">
+    <div class="info">
+      <h2>By <em>letter</em>.</h2>
+      <p>The fastest way to reach us is by email. Tell us your date, a feeling for the day, and a rough guest count — we will reply with a hand-picked proposal of pieces.</p>
+      <a class="mail" href="mailto:allaspects.ds@gmail.com">allaspects.ds@gmail.com</a>
+      <div class="row-meta">
+        <div><b>Studio</b>Sywell, Northamptonshire, UK</div>
+        <div><b>Hours</b>By appointment, evenings most welcome</div>
+        <div><b>Follow</b><a href="https://www.instagram.com/allaspects_ds/" target="_blank" style="color:var(--accent);text-decoration:underline">@allaspects_ds</a></div>
+      </div>
+    </div>
+    <form class="side" onsubmit="event.preventDefault();window.location='mailto:allaspects.ds@gmail.com?subject=Enquiry&body='+encodeURIComponent(this.note.value+'\n\nName: '+this.name.value+'\nDate: '+this.date.value);">
+      <h3>Quick enquiry</h3>
+      <label class="field"><label>Name</label><input name="name" placeholder="Your name" required></label>
+      <label class="field"><label>Email</label><input name="email" type="email" placeholder="you@example.com" required></label>
+      <label class="field"><label>Date</label><input name="date" placeholder="DD / MM / YYYY"></label>
+      <label class="field"><label>Looking for</label>
+        <select name="topic">
+          <option>Games &amp; Decor</option>
+          <option>Decor only</option>
+          <option>Games only</option>
+          <option>Personal touches</option>
+        </select>
+      </label>
+      <label class="field"><label>A note</label><textarea name="note" rows="3" placeholder="Tell us a little about your day…"></textarea></label>
+      <button type="submit">Send the letter →</button>
+    </form>
+  </section>
+
+  <footer class="site-footer">
+    <span>© All Aspects D&amp;S</span>
+    <span><a href="tc.html">T&amp;C's</a> · <a href="https://www.instagram.com/allaspects_ds/" target="_blank">Instagram</a></span>
+    <span>Folio v2 · Contact</span>
+  </footer>
+
+</body>
+</html>

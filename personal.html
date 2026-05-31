@@ -113,95 +113,16 @@
             </div>
           </div>
 
-
-
-
-          <div class="col-md-12 col-lg-12 mb-12" data-aos="fade-up" data-aos-delay="200">
-            <div class="media-29191 text-center h-100">
-              <h2>Personal Touches</h2>
-              <p>We provide a creative planning service designed to support you. Our 'idea pages' can address any of
-                your needs and start from £75, depending on what you require. ‘Idea pages’ can aid you in visualizing
-                and tailoring your events.
-                Additionally, we can develop tools to assist with the organization and scheduling of your party, event,
-                or wedding.
-                Our offerings are suitable for a range of occasions, from intimate birthday celebrations to weddings.
-                We are excited to help you with your upcoming special occasion.
-              </p>
+          <div class="row justify-content-center pb-4">
+            <div class="col-md-8 col-lg-6">
+              <input id="items-search" type="search" class="form-control" placeholder="Search personal touches…"
+                aria-label="Search personal touches" style="border-radius:0;border:1px solid #29404D;padding:14px 18px;">
             </div>
           </div>
 
-          <div class="col-md-12 col-lg-12 mb-12" data-aos="fade-up" data-aos-delay="200">
-            <div class="media-29191 text-center h-100">
-              <p>
-                Here are just a few examples of some personalization ideas</p>
-
-            </div>
-          </div>
-
-          <div class="row custom-row-02192 align-items-stretch">
-            <div class="col-md-12 col-lg-6 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <img src="images/custom-glass.jpg" alt="Image" class="img-fluid">
-                <p>Creating an image, printing onto stickers, making a champagne reception even more special
-
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-6 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <img src="images/custom-jams.jpg" alt="Image" class="img-fluid">
-                <p>Adding your personalised stickers to jars for wedding favours
-
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-6 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <img src="images/custom-bellybands.png" alt="Image" class="img-fluid">
-                <p>Designing 'Belly Bands' for use on gifts, keepsakes or even to embellish your invitations can add a
-                  personal touch and make your guests feel special.
-
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-6 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <img src="images/custom-coasters.jpg" alt="Image" class="img-fluid">
-                <p>We can help create images or visuals to be printed on most things, including drink mats and place
-                  mats
-                </p>
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-12 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <p>
-                  Here are just a few examples of Idea and organisational Pages</p>
-
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-12 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <p>Idea pages </p>
-                <br>
-                <img src="images/allaspectsds_moodboard.png" alt="Image" class="img-fluid"
-                  style="width: 90%; height: auto;">
-
-              </div>
-            </div>
-
-            <div class="col-md-12 col-lg-12 mb-12" data-aos="fade-up" data-aos-delay="200">
-              <div class="media-29191 text-center h-100">
-                <p>Planning </p>
-                <br>
-                <img src="images/allaspectsds_plan.png" alt="Image" class="img-fluid" style="width: 90%; height: auto;">
-
-              </div>
-            </div>
+          <div id="items-container" data-items-src="data/personal.json" data-items-type="personal"
+            data-search-input="items-search" class="row custom-row-02192 align-items-stretch">
+            <!-- Items are loaded dynamically from data/personal.json -->
           </div>
         </div>
       </div>
@@ -265,6 +186,7 @@
     <script src="js/vendor/debug.addIndicators.min.js"></script>
 
 
+    <script src="js/load-items.js"></script>
     <script src="js/main.js"></script>
   </body>
 
