@@ -28,6 +28,27 @@
     "cost": "£18.00 each or £150.00 for all 10 (3 day hire)\n£3.00 each per extra day"
   },
   {
+    "id": "10-detailed-glass-candle-holders",
+    "image": "images/10 Detailed Glass Candle Holders.png",
+    "title": "10 Detailed Glass Candle Holders",
+    "description": "10 stylish candle holders for in or outdoors.\nEasy to add and light candles, as the glass simply lifts up.\n\nSize\nFull unit 28cm tall\nGlass height 17cm\nWidth 8cm",
+    "cost": "£10.00 for all 10 (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "extra-large-candle-stands",
+    "image": "images/Extra Large Candle Stands.png",
+    "title": "Extra Large Candle Stands",
+    "description": "A pair of substantial Candle holders.\nCreate impact for the end of an isle, entrance or backdrops\n\nStone finish\n\nSize\n85cm tall\nCandle width approx. 10cm diameter",
+    "cost": "£18.00 for the pair (3 day hire)\n£4.00 per extra day"
+  },
+  {
+    "id": "2-rustic-candle-holders",
+    "image": "images/2 Rustic Candle Holders.png",
+    "title": "2 Rustic Candle Holders",
+    "description": "2 beautiful Rustic Candle Holders, ideal for in and outside. The entire frame has tiny decorative holes throughout, creating beautiful light effects on walls or backdrops. Perfect for part of evening celebrations or twilight weddings.\n\nRustic Brown shade\n\nSize\n66cm tall\n32cm wide\nEach holds 5 candles",
+    "cost": "£15.00 for the pair (3 day hire)\n£4.00 per extra day"
+  },
+  {
     "id": "rose-trees",
     "image": "images/6rosetreepots.png",
     "title": "6 Classic Rose Trees with Pots and Stands",
@@ -42,6 +63,20 @@
     "cost": "£5.00 each or all 8 for £30 (3 day hire)\n£3.00 per extra day"
   },
   {
+    "id": "gold-and-silver-trimmed-glass-charger-plates",
+    "image": "images/Gold and Silver trimmed Glass Charger plates.png",
+    "title": "Gold and Silver trimmed Glass Charger plates",
+    "description": "Create stunning table settings with these Glass Trimmed Charger plates\n\n2 colours available, Gold and Silver\n\nSize\n33cm\n\nDecorative use only",
+    "cost": "£2.00 per unit"
+  },
+  {
+    "id": "highly-decorative-glass-charger-plates",
+    "image": "images/Highly decorative Glass Charger plates.png",
+    "title": "Highly decorative Glass Charger plates",
+    "description": "Gold textured glass Charger plate.\nBlack and Gold patterned Charge plate.\n\nCreate stunning table settings with these highly decorative plates\n\nSize\n33cm\n\nDecorative use only",
+    "cost": "£2.05 per unit"
+  },
+  {
     "id": "wooden-decor-slices",
     "image": "images/woddenslices.png",
     "title": "Wooden décor Slices",
@@ -49,25 +84,32 @@
     "cost": "£ 1.50 each or 26.00 for 20 (3 day hire)\n£4.00 per extra day"
   },
   {
-    "id": "large-clear-vases",
-    "image": "images/largeclearvases.png",
-    "title": "The Hurricane Clear Vases",
-    "description": "12 Large clear vases.\nIdeal for stunning centrepieces at Weddings or parties.\n\nSize\n30cm tall\n11cm wide at the top and 13cm wide at the base\n\nCandles, flowers, lights not included",
-    "cost": "£8.00 each or £60 for all 12 (3 day hire)\n£4.00 per extra day"
+    "id": "the-large-clear-hurricane-vases",
+    "image": "images/The Large Clear Hurricane Vases.png",
+    "title": "The Large Clear Hurricane Vases",
+    "description": "12 Large clear vases\nIdeal for stunning centrepieces at Weddings or parties\n\nSize\n30cm tall\n11cm wide at the top and 13cm wide at the base",
+    "cost": "£8.00 each or £70 for all 12 (3 day hire)\n£4.00 per extra day"
+  },
+    {
+    "id": "48-beautiful-sage-green-bud-vases",
+    "image": "images/48 Beautiful Sage Green Bud Vases.png",
+    "title": "48 Beautiful Sage Green Bud Vases",
+    "description": "48 large miniature vases, each ranging in size and shape\nUse in straight lines or group together, add flowers and surround with small candles.\n\nSize\nFrom 8cm - 14cm tall\nVarious shapes",
+    "cost": "£18.00 for all 50 bottles (3 day hire)\n£4.00 per extra day"
   },
   {
-    "id": "miniature-vases",
-    "image": "images/49largesmallvases.png",
-    "title": "49 Beautiful Large and Small Miniature Vases",
-    "description": "20 large miniature vases, each ranging in size and shape.\n29 small miniature vases, each ranging in size and shape.\nGroup together, add flowers and surround with small candles.\n\nSize\nLarge ones approx. 15cm tall\nSmall ones approx. 9cm tall",
-    "cost": "£15.00 for all 49 bottles (3 day hire)\n£4.00 per extra day"
+    "id": "50-beautiful-large-and-small-bud-vases",
+    "image": "images/50 Beautiful Large and Small Bud Vases.png",
+    "title": "50 Beautiful Large and Small Bud Vases",
+    "description": "20 large miniature vases, each ranging in size and shape\n30 small miniature vases, each ranging in size and shape\nGroup together, add flowers and surround with small candles.\n\nSize\nLarge ones approx. 15cm tall\nSmall ones approx. 9cm tall",
+    "cost": "£15.00 (3 day hire)\n£4.00 per extra day"
   },
-  {
-    "id": "tea-lights",
-    "image": "images/tealights.png",
-    "title": "Tea Lights",
-    "description": "These are a great addition to any wedding or event. Creates impact on a table or use around your venue. Can also be used for mini flower holders.\n 25 in total are available\n\nSize\n‎6cm tall\n4cm wide",
-    "cost": "£6.00 for 35 (3 day hire)\n£3.00 per extra day"
+ {
+    "id": "tea-lights-holders-40-available",
+    "image": "images/Tea lights holders - 40 available.png",
+    "title": "Tea lights holders - 40 available",
+    "description": "These are a great addition to any wedding or event. Creates impact on a table or use around your venue. Can also be used for mini flower holders.\n40 in total are available.\n\nSize\n6cm tall",
+    "cost": "£10.00 for 40 (3 day hire)\n£3.00 per extra day"
   },
   {
     "id": "table-numbers-sets",
@@ -81,14 +123,14 @@
     "image": "images/hessianrunners.png",
     "title": "The Hessian Runners/Sashe & Napkin Set",
     "description": "Create an elegant theme at your Wedding or a party with these Hessian Runners/sashes and napkins.\nUse on their own for a warm and rustic feel or add other colours or textures, like greens or lace\nThere are 60 Runners/Sashes available\n106 Napkins\n\nSize\n‎Runners/Sashes are 239cm long \n19cm wide",
-    "cost": "£2.50 for each Runner/Sashe (3 day hire)\n£1.45 for each Napkin (3 day hire)\n£8.00 per extra day"
+    "cost": "£1.50 for each Runner/Sashe (3 day hire)\n£1.45 for each Napkin (3 day hire)\n£8.00 per extra day"
   },
   {
     "id": "the-pale-pink-and-white-rose-table-runners-or-sashes",
     "image": "images/pinkwhitetablerunner.png",
     "title": "The Pale Pink and White Rose Table Runners or Sashes",
     "description": "Elegant pale pink with white rose table runners or sashes\nIdeal for table runners and chair sashes\nEach one has an angled end and stitched edging\nWorks beautifully with white décor\n96 are available\n\nSize\n‎Runners/Sashes are 239cm long\n19cm wide",
-    "cost": "£2.50 each (3 day hire)"
+    "cost": "£1.50 each (3 day hire)"
   },
   {
     "id": "black-table-runners",
@@ -96,6 +138,20 @@
     "title": "The Black Table Runners and Napkins",
     "description": "Create an elegant theme at your Wedding or a party with these runners/sashes and napkins.\nThere are 27 Table Cheesecloth Runners/sashes and 78 Napkins available\n\nSize\n‎Runners/sashes are 174cm long by 35cm wide approx.\nNapkins are 40cm x 40 cm",
     "cost": "£1.50 for the runners/sashes (3 day hire)\n£1.45 per napkin (3 day hire)\n£5.00 per extra day\n£1.45 per napkin (3 day hire)\n£5.00 per extra day"
+  },
+  {
+    "id": "stunning-sage-green-sheer-organza",
+    "image": "images/Stunning Sage Green Sheer Organza.png",
+    "title": "Stunning Sage Green Sheer Organza",
+    "description": "Beautiful sheer organza sage green table runners and chair sashes\n\nSize\n250cm long\n18cm wide\n76 available",
+    "cost": "£1.50 each (3 day hire)"
+  },
+  {
+    "id": "napkin-rings",
+    "image": "images/Napkin rings.png",
+    "title": "Napkin rings",
+    "description": "31 available - gold/bronze colour\nPerfect for intimate weddings or private events\nWorks with any colour napkins\n\nSize\n2cm wide\n4cm diameter",
+    "cost": "£4.00 for all 31 (3 day hire)\n£1.50 per extra day"
   },
   {
     "id": "the-iconic-post-box-for-cards",
@@ -131,6 +187,13 @@
     "title": "The Sweet Treat Machine",
     "description": "The Classic Sweet Vending Machine is a must have for any occasion and age group.\nSimply needs a level and sturdy surface for anyone to come along, turn the handle and your sweet treats arrive in your hands.\nAvoid direct sunlight or hot rooms, or your treats could be impacted.\nCan be used with any small loose sweets like jellybeans, M&M's or skittles.\n\nThe size\nApprox. 16in tall\n6in wide\nHolds approx. 5KG",
     "cost": "£12.00 (3 day hire)\n£3.00 per extra day"
+  },
+  {
+    "id": "vintage-suitcase",
+    "image": "images/Vintage suitcase.png",
+    "title": "Vintage suitcase",
+    "description": "Vintage leather suitcase\nIdeal for weddings and parties - use with items like slippers or throws\n\nSize\n56cm long\n28cm wide\n18cm deep",
+    "cost": "£4.00 (3 day hire)\n£1.50 per extra day"
   },
   {
     "id": "slipper-basket",
@@ -230,7 +293,6 @@
     "description": "A stunning solid centre piece.\n3 Tiers.\nCan be used for cakes or savoury items or even flowers.\n\nSize\n70cm tall\nBase Tier is 35cm diameter",
     "cost": "£15.00 (3 day hire)\n£3.00 per extra day"
   },
-
   {
     "id": "large-small-mini-vases",
     "image": "images/13glassjarswithsweets.png",
